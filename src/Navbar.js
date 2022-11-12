@@ -2,7 +2,7 @@ import React from 'react';
 import SpeedDial from '@mui/material/SpeedDial';
 import SpeedDialIcon from '@mui/material/SpeedDialIcon';
 import SpeedDialAction from '@mui/material/SpeedDialAction';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import CoffeeIcon from '@mui/icons-material/Coffee';
 import Groups3Icon from '@mui/icons-material/Groups3';
 import BungalowIcon from '@mui/icons-material/Bungalow';
