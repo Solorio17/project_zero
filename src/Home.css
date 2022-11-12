@@ -1,0 +1,16 @@
+body {
+    font-family: "Berkshire Swash", cursive;
+    text-align: center;
+    border-right: 1px;
+    font-size: xx-large;
+}
+
+.coffeeImg {
+    width: -webkit-fill-available;
+}
+
+.shopName {
+    color: wheat;
+    text-shadow: 4px 4px black;
+    margin-top: 0%;
+}
