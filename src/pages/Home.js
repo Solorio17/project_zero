@@ -1,7 +1,7 @@
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import "@fontsource/berkshire-swash"
-import "../App.css"
+import "../Home.css"
 import CssBaseline from '@mui/material/CssBaseline';
 import CoffeePic from '../home_coffee.jpeg'
 
