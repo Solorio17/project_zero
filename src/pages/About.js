@@ -5,12 +5,10 @@ import Container from '@mui/material/Container';
 import Card from '@mui/material/Card';
 import Typography from '@mui/material/Typography';
 import { styled } from '@mui/material/styles';
-import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Grid';
 import CoffeeCup from '../coffeecup1.webp'
 import "@fontsource/berkshire-swash"
 import "../Home.css"
-
 
 const Item = styled(Card)(({ theme }) => ({
     backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#fff',
