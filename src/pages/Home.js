@@ -14,7 +14,10 @@ function Home() {
         <Box sx={{ bgcolor: '#4D1802', height: '100vh' }}>
           <h1 className='shopName'>Bear's Cup of Coffee</h1>
           <img className='coffeeImg' src={CoffeePic} alt='This is the main home image which shows a off centered expresso coffee mug with surrounding coffee beans.' />
-          <br />
+          <p className='coffeeImgTxt'>" Happiness is not something readymade, you must first wait for bear to make it."</p>
+          <div style={{ borderBottom: '2px solid brown', height: '50px' }}>
+            Our Menu
+          </div>
           <Menu />
         </Box>
       </Container>
