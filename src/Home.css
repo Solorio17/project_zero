@@ -7,6 +7,17 @@ body {
 
 .coffeeImg {
     width: -webkit-fill-available;
+    position: relative;
+}
+
+.coffeeImgTxt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: antiquewhite;
+    text-shadow: 2px 2px black;
+    font-size: 48px;
 }
 
 .shopName {
